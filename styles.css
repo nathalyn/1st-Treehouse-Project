@@ -173,6 +173,12 @@ a.social:hover {
   clear: both;
 }
 
+a.svg {
+  position: relative;
+  display: inline-block;
+}
+
+
 a.svg:after {
   content: ""; 
   position: absolute; 
@@ -182,10 +188,6 @@ a.svg:after {
   left: 0;
 }
 
-a.svg {
-  position: relative;
-  display: inline-block;
-}
 
 
 /* Styles for larger screens */
