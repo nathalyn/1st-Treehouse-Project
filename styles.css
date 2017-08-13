@@ -100,7 +100,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 
-.web-links:hover { color: #5FAD9E;  }
+.web-links a:hover { color: #5FAD9E;  }
 .card:hover {
   border-color: #5FAD9E;
 }
@@ -145,6 +145,7 @@ footer ul li {
   display: inline-block;
 }
 
+
 a.social {
   display: inline-block;
   text-align: center;
@@ -171,6 +172,21 @@ a.social:hover {
 .clearfix {
   clear: both;
 }
+
+a.svg:after {
+  content: ""; 
+  position: absolute; 
+  top: 0; 
+  right: 0; 
+  bottom: 0; 
+  left: 0;
+}
+
+a.svg {
+  position: relative;
+  display: inline-block;
+}
+
 
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
