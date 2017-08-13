@@ -100,7 +100,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 
-.weblinks:hover { color: #5FAD9E;  }
+.web-links:hover { color: #5FAD9E;  }
 .card:hover {
   border-color: #5FAD9E;
 }
