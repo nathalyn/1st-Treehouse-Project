@@ -52,7 +52,7 @@ a:hover {
   transition: all .5s;
 }
 .nav a:hover {
-  color: black;
+  color: #5FAD9E;
 }
 
 header {
@@ -99,6 +99,8 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
+
+.weblinks:hover { color: #5FAD9E;  }
 .card:hover {
   border-color: #5FAD9E;
 }
@@ -163,6 +165,7 @@ a.github {
   background-image: url(images/github.svg);
 }
 a.social:hover {
+  color: #5FAD9E;
   opacity: 1;
 }
 .clearfix {
