@@ -127,6 +127,30 @@ ul.skills {
   background: #5FAD9E;
 }
 
+
+.experience h2 { padding: 0px;
+                margin: 60px;
+}
+
+
+
+
+.description { position: relative;
+                /*left: 160px;*/
+                width: 500px;
+                border: 0px solid #73AD21;
+                padding: 24px;
+                text-align: left;
+
+}
+.date article {display: inline;
+               float: left;}
+
+
+article {margin-bottom: 64px;}
+
+
+
 footer {
   width: 100%;
   min-height: 30px;
