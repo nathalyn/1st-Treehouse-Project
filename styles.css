@@ -138,7 +138,7 @@ ul.skills {
 }
 
 /*Main layout on the Second page*/
-table {
+table { 
     border-spacing: 32px;
 }
 
@@ -182,7 +182,7 @@ article {margin-bottom: 64px;}
 p {max-width:500px
 
  }
-
+.date {text-align: center;}
 
 
     
