@@ -56,6 +56,9 @@ a:hover {
   color: #5FAD9E;
 }
 
+
+/*Header*/
+
 header {
   text-align: center;
   background: url('images/6-09 [Converted]-03.png') no-repeat top center ;
@@ -90,6 +93,8 @@ header .profile-image:hover {
   background-color: #CCE5E1;
   color: #637772;
 }
+
+/*Main Card Layout on the first page*/
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
@@ -132,7 +137,7 @@ ul.skills {
                 margin-bottom: 0px;
 }
 
-
+/*Main layout on the Second page*/
 table {
     border-spacing: 32px;
 }
@@ -179,28 +184,13 @@ p {max-width:500px
  }
 
 
-/*
- td .date {column-width: 500px;
-            text-align: center;}*/
-}
 
     
-}
+/*Footer*/
 
-.bottom-image{
-                display: block;
-                margin: auto;
-                }
-
-footer .contact{ 
-          display: block;
-          margin: auto;
-          position: relative;
-          text-align: center}
-
-
-}
+ 
 footer {
+  margin:auto;
   width: 100%;
   min-height: 30px;
   padding: 20px 0 40px 20px;
