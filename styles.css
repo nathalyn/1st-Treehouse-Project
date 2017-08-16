@@ -133,18 +133,27 @@ ul.skills {
 }
 
 
+table { 
+    border-spacing: 80px;
+}
+ td {
+    text-align: left;
+    
+}
 
 
 .description { position: relative;
                 /*left: 160px;*/
-                width: 500px;
+                width: 800px;
                 border: 0px solid #73AD21;
                 padding: 24px;
                 text-align: left;
 
 }
-.date article {display: inline;
-               float: left;}
+.article-info {display: inline;
+                padding: 30px;
+                /*height: 100%;
+                width: 25%;*/}
 
 
 article {margin-bottom: 64px;}
