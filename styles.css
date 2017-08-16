@@ -82,7 +82,7 @@ header .profile-image:hover {
   transform: scale(1.4) rotate(5deg);
 }
 .tag {
-  background-color:;
+  background-color: transparent;
   color: #637772;
   padding: 10px;
   border-radius: 5px;
@@ -145,13 +145,13 @@ table {
 
  td {
   max-width: 300px; 
-  padding: ;
+
     text-align: left;
     margin-bottom: 24px;
 }
 
 
-#company {width: 120px;
+.company {width: 120px;
           padding-right: 80px}
 
  .company-image{ 
@@ -170,7 +170,7 @@ table {
 
 }
 .article-info {display: inline;
-                padding: ;
+               
                 /*height: 100%;
                 width: 25%;*/}
 .company-div { width: 100px;
