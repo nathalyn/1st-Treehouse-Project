@@ -131,6 +131,10 @@ ul.skills {
 .skills li:nth-child(odd) {
   background: #5FAD9E;
 }
+li {
+             color: #637772;
+             margin-bottom: 6px;
+           }
 
 .experience h2 { padding: 0px;
                 margin-top: 60px;
